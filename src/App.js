@@ -10,9 +10,6 @@ import Register from './Navbar/Register';
 
 function App() {
   return (
-    // <div className="App">
-      
-    // </div>
   <Router>
       <div>
         <Navbar/>
